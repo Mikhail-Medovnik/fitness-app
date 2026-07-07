@@ -4,10 +4,12 @@ Full-stack application with React frontend and Express backend.
 
 ## Project structure
 
+```plaintext
 app/
-├── back/ # Backend API (Express + TypeScript + Prisma)
-├── front/ # Frontend application (React)
+├── back/
+├── front/
 └── README.md
+```
 
 ---
 
