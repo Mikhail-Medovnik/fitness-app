@@ -6,8 +6,8 @@ Full-stack application with React frontend and Express backend.
 
 ```plaintext
 app/
-├── back/
-├── front/
+├── backend/
+├── frontend/
 └── README.md
 ```
 
