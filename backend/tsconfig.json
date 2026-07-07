@@ -9,13 +9,13 @@
 
 		"strict": true,
 
-		"baseUrl": "./src",
+		"baseUrl": ".",
 
 		"paths": {
-			"@config/*": ["config/*"],
-			"@modules/*": ["modules/*"],
-			"@middlewares/*": ["middlewares/*"],
-			"@utils/*": ["utils/*"]
+			"@config/*": ["src/config/*"],
+			"@modules/*": ["src/modules/*"],
+			"@middlewares/*": ["src/middlewares/*"],
+			"@utils/*": ["src/utils/*"]
 		},
 
 		"esModuleInterop": true,

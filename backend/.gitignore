@@ -13,3 +13,4 @@ coverage/
 
 prisma/*.db
 prisma/*.db-journal
+/src/generated/prisma
