@@ -1,0 +1,11 @@
+{
+	"trailingComma": "es5",
+	"tabWidth": 2,
+	"useTabs": true,
+	"semi": true,
+	"singleQuote": true,
+	"arrowParens": "always",
+	"importOrder": ["<BUILTIN_MODULES>", "<THIRD_PARTY_MODULES>", "modules", "middlewares", "^[./]"],
+	"printWidth": 120,
+	"bracketSpacing": true
+}
