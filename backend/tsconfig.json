@@ -9,13 +9,14 @@
 
 		"strict": true,
 
-		"baseUrl": ".",
+		"baseUrl": "./src",
 
 		"paths": {
-			"@config/*": ["src/config/*"],
-			"@modules/*": ["src/modules/*"],
-			"@middlewares/*": ["src/middlewares/*"],
-			"@utils/*": ["src/utils/*"]
+			"@config/*": ["config/*"],
+			"@modules/*": ["modules/*"],
+			"@middlewares/*": ["middlewares/*"],
+			"@utils/*": ["utils/*"],
+			"@generated/*": ["generated/prisma/*"]
 		},
 
 		"esModuleInterop": true,
